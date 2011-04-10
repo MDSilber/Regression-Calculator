@@ -1,0 +1,7 @@
+To compile the regression calculator, you need to compile:
+Matrix.cpp
+MatrixInversion.cpp
+regressionCalculator.cpp
+RegressionTester.cpp
+
+Use g++ compiler. Then run a.out.
